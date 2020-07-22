@@ -8,7 +8,7 @@ const IndexPage = () => (
     <article>
       <h1>marvin céspedes</h1>
       <p>
-        Howdy, I am a UX/UI frontend developer, and web designer residing in
+        Howdy, I am a UX/UI frontend developer and web designer residing in
         beautiful (and mostly chilly) Chicago, Illinois.
       </p>
       <p>
@@ -48,7 +48,7 @@ const IndexPage = () => (
         , and occasionally tutor frontend development online.
       </p>
       <p>
-        I also do freelance photography/video work, am at the beck and call of a
+        I also do freelance photography/video work, am at the beck and call of a{" "}
         <a
           href="https://www.instagram.com/p/BZmbSzFnZu1/?taken-by=mcespo.jpeg"
           title="Meli the Golden, Instagram image"
@@ -66,7 +66,7 @@ const IndexPage = () => (
       </p>
       <p>
         Now that we have all the housekeeping taken care of, feel free to click
-        around at some of my projects above, any links to github, LinkedIn, etc.
+        around at some of my projects above, any links to GitHub, LinkedIn, etc.
         below, or just feel free to{" "}
         <a
           href="mailto:mcespo@gmail.com?&amp;subject=Oh%20hello%20Marvin,%20you're%20so%20cool!&amp;body=I%20wish%20to%20be%20marginally%20as%20attractive%20as%20you%20are.%20Please%20help!%20Also,%20I%20wanted%20to%20ask..."
@@ -76,6 +76,7 @@ const IndexPage = () => (
         </a>
         .
       </p>
+      <p>Stay safe out there.</p>
     </article>
   </Layout>
 );
